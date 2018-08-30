@@ -1,3 +1,4 @@
+#Part of MIT Final Exam
 ## DO NOT MODIFY THE IMPLEMENTATION OF THE Person CLASS ##
 class Person(object):
     def __init__(self, name):
