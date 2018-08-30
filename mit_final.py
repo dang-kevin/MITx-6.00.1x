@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 30 12:27:21 2018
-
-@author: kd_ch
-"""
+#MIT Final Exam
 
 def isPalindrome(aString):
     '''
