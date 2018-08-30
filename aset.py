@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 30 14:48:55 2018
-
-@author: kd_ch
-"""
-
+#Part of MIT Final Exam
 class Container(object):
     """ Holds hashable objects. Objects may occur 0 or more times """
     def __init__(self):
